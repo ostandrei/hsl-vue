@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'IBMPlexSans';
+  font-weight: 400;
+  src: local('IBMPlexSans-Regular'), url(@/assets/fonts/IBMPlexSans-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBMPlexSans-Bold';
+  font-weight: 700;
+  src: local('IBMPlexSans-Bold'), url(@/assets/fonts/IBMPlexSans-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBMPlexMono';
+  font-weight: 400;
+  src: local('IBMPlexMono-Regular'), url(@/assets/fonts/IBMPlexMono-Regular.ttf) format('truetype');
+}
